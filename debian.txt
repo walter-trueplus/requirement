@@ -1,0 +1,8 @@
+libxml2-dev
+libxslt1-dev
+python-dev
+python-lxml
+python-ldap
+libsasl2-dev
+libldap2-dev
+libssl-dev
