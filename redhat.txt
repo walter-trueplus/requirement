@@ -1,0 +1,11 @@
+epel-release
+nodejs
+python-lxml
+python-psutil
+python-ldap
+python-reportlab
+python-devel
+Cython
+gcc
+libxml2-devel
+libxslt-devel
