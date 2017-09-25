@@ -6,3 +6,5 @@ python-ldap
 libsasl2-dev
 libldap2-dev
 libssl-dev
+npm
+python-pip
