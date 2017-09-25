@@ -1,11 +1,12 @@
 epel-release
 nodejs
+npm
 python-lxml
 python-psutil
-python-ldap
 python-reportlab
 python-devel
 Cython
 gcc
 libxml2-devel
 libxslt-devel
+openldap-devel
