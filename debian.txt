@@ -8,3 +8,4 @@ libldap2-dev
 libssl-dev
 npm
 python-pip
+nodejs
