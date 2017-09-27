@@ -2,8 +2,6 @@
 addons_path = 
 data_dir = 
 db_user = 
-db_password = 
-db_host = 
 dbfilter = .*
 db_maxconn = 16
 log_db = False
