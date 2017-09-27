@@ -13,8 +13,8 @@
 
 PATH=/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin
 DAEMON=
-NAME=
-DESC=
+NAME=odoo-service
+DESC=odoo-service
 
 # Specify the user name (Default: odoo).
 USER=
